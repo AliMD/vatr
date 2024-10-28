@@ -92,7 +92,7 @@
     "clean": "rm -rfv dist *.tsbuildinfo"
   },
   "dependencies": {
-    "@alwatr/flux": "^3.2.0",
+    "@alwatr/flux": "^3.2.1",
     "@alwatr/nanolib": "^1.4.0",
     "@alwatr/nanotron": "^4.5.0",
     "@alwatr/nitrobase": "^7.3.0"
