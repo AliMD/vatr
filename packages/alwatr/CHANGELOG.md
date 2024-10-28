@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.0](https://github.com/Alwatr/alwatr/compare/v2.0.3...v2.1.0) (2024-10-28)
+
+### Features
+
+* update @alwatr/nanotron 4.5.0 ([#1676](https://github.com/Alwatr/alwatr/issues/1676)) ([b59f1ff](https://github.com/Alwatr/alwatr/commit/b59f1ffced648630d14f0d197efc3ae3f9d89575)) by @dependabot[bot]
+* update flux v3.2.1 ([30ec156](https://github.com/Alwatr/alwatr/commit/30ec156ed8ee72c6e69c95a40049a549a7d3c239)) by @AliMD
+
 ## [2.0.3](https://github.com/Alwatr/alwatr/compare/v2.0.2...v2.0.3) (2024-10-16)
 
 ### Bug Fixes
