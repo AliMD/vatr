@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/Alwatr/alwatr/compare/v2.1.0...v2.1.1) (2024-10-28)
+
+### Bug Fixes
+
+* nanotron v4.5.1 ([f10c0e8](https://github.com/Alwatr/alwatr/commit/f10c0e87167e639f9874b69101aec8f46555cbc8)) by @
+
 ## [2.1.0](https://github.com/Alwatr/alwatr/compare/v2.0.3...v2.1.0) (2024-10-28)
 
 ### Features
