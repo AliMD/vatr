@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/Alwatr/alwatr/compare/v2.1.1...v2.2.0) (2024-11-02)
+
+### Features
+
+* **deps:** bump the alwatr group across 1 directory with 9 updates ([f6ef7ac](https://github.com/Alwatr/alwatr/commit/f6ef7ac8fee35ce26722928cb3a255eb7b3870b5)) by @dependabot[bot]
+
+### Miscellaneous Chores
+
+* remove unused Tailwind configuration file ([3dcf039](https://github.com/Alwatr/alwatr/commit/3dcf039ee0c0b5e674525c734ef83aec18bbc2d1)) by @AliMD
+* update dependabot configuration for improved dependency management ([44528a0](https://github.com/Alwatr/alwatr/commit/44528a02bde5b08f27185e5bf18b74dd50a7550e)) by @AliMD
+* update GitHub Copilot settings for code generation instructions ([7735e1c](https://github.com/Alwatr/alwatr/commit/7735e1c8e88f5c86d672d8003bd4ce8f069dc72b)) by @AliMD
+* update VSCode extensions for improved development experience ([f0ba360](https://github.com/Alwatr/alwatr/commit/f0ba360d53e49602a462e797b23748355523e762)) by @AliMD
+
 ## [2.1.1](https://github.com/Alwatr/alwatr/compare/v2.1.0...v2.1.1) (2024-10-28)
 
 ### Bug Fixes

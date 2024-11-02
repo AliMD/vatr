@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.0](https://github.com/Alwatr/alwatr/compare/v2.1.1...v2.2.0) (2024-11-02)
+
+### Features
+
+* **deps:** bump the alwatr group across 1 directory with 9 updates ([f6ef7ac](https://github.com/Alwatr/alwatr/commit/f6ef7ac8fee35ce26722928cb3a255eb7b3870b5)) by @dependabot[bot]
+
 ## [2.1.1](https://github.com/Alwatr/alwatr/compare/v2.1.0...v2.1.1) (2024-10-28)
 
 ### Bug Fixes
