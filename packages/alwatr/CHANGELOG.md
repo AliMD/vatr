@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.0](https://github.com/Alwatr/alwatr/compare/v2.2.0...v2.3.0) (2024-11-04)
+
+### Features
+
+* upgrade nanolib to v5.1.0 ([78251cf](https://github.com/Alwatr/alwatr/commit/78251cfc4123516f6f028912597206777ee3b762)) by @
+
 ## [2.2.0](https://github.com/Alwatr/alwatr/compare/v2.1.1...v2.2.0) (2024-11-02)
 
 ### Features
