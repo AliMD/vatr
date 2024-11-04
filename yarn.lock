@@ -223,9 +223,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/nanolib@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "@alwatr/nanolib@npm:5.0.0"
+"@alwatr/nanolib@npm:^5.0.0, @alwatr/nanolib@npm:^5.1.0":
+  version: 5.1.0
+  resolution: "@alwatr/nanolib@npm:5.1.0"
   dependencies:
     "@alwatr/async-queue": "npm:^5.0.0"
     "@alwatr/dedupe": "npm:^5.0.0"
@@ -241,14 +241,14 @@ __metadata:
     "@alwatr/is-number": "npm:^5.0.0"
     "@alwatr/local-storage": "npm:^5.0.0"
     "@alwatr/logger": "npm:^5.0.0"
-    "@alwatr/node-fs": "npm:^5.0.0"
+    "@alwatr/node-fs": "npm:^5.1.0"
     "@alwatr/package-tracer": "npm:^5.0.0"
     "@alwatr/parse-duration": "npm:^5.0.0"
     "@alwatr/platform-info": "npm:^5.0.0"
     "@alwatr/render-state": "npm:^5.0.0"
     "@alwatr/resolve-url": "npm:^5.0.0"
     "@alwatr/unicode-digits": "npm:^5.0.0"
-  checksum: 10c0/8b31422f988db366d33c36b5dafa5c8587022d4980a6dff2551f9fcfff9dc20c45a90fa93a0486f7565da7ef5fae4fca322d30eaa868d404ecadbf1e7667340c
+  checksum: 10c0/200ef402b9052ad68f345f9e7209634cfe3ff5f3ddd40cbc1d7efc7c9b5f01fb8f278f3cf2d6cea12dbc8623d7048e0c0816fb16f96f2b2587b59665e18e67ab
   languageName: node
   linkType: hard
 
@@ -328,15 +328,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/node-fs@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "@alwatr/node-fs@npm:5.0.0"
+"@alwatr/node-fs@npm:^5.1.0":
+  version: 5.1.0
+  resolution: "@alwatr/node-fs@npm:5.1.0"
   dependencies:
     "@alwatr/async-queue": "npm:^5.0.0"
     "@alwatr/flat-string": "npm:^5.0.0"
     "@alwatr/logger": "npm:^5.0.0"
     "@alwatr/package-tracer": "npm:^5.0.0"
-  checksum: 10c0/ea82d3284a8a826bcc636f0ff3e2109def9d41490acbcd3cc461c250df00bc73e733dae8bd4b27da415c40a193ba563b64f81976e4656907b4c3f7f6ecfb2282
+  checksum: 10c0/645ad1c34e5254a36d6b18ce8f687a6107b6212b3e4ca90b5c3bf238e9c37651c7f19b09149ef03fdb845bbe55fbb8459c8272e86b3018e82a3daaabe34351c1
   languageName: node
   linkType: hard
 
@@ -1774,7 +1774,7 @@ __metadata:
   dependencies:
     "@alwatr/flux": "npm:^3.2.2"
     "@alwatr/nano-build": "npm:^5.0.0"
-    "@alwatr/nanolib": "npm:^5.0.0"
+    "@alwatr/nanolib": "npm:^5.1.0"
     "@alwatr/nanotron": "npm:^4.5.2"
     "@alwatr/nitrobase": "npm:^7.3.1"
     "@alwatr/prettier-config": "npm:^5.0.0"

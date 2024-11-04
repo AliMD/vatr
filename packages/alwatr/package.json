@@ -93,7 +93,7 @@
   },
   "dependencies": {
     "@alwatr/flux": "^3.2.2",
-    "@alwatr/nanolib": "^5.0.0",
+    "@alwatr/nanolib": "^5.1.0",
     "@alwatr/nanotron": "^4.5.2",
     "@alwatr/nitrobase": "^7.3.1"
   },
