@@ -56,5 +56,14 @@
     "prettier": "^3.3.3",
     "typescript": "^5.6.3"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.1",
+  "resolutions": {
+    "@alwatr/context": "portal:/Volumes/AlwatrMac/repositories/flux/packages/context",
+    "@alwatr/fetch-state-machine": "portal:/Volumes/AlwatrMac/repositories/flux/packages/fetch-state-machine",
+    "@alwatr/flux": "portal:/Volumes/AlwatrMac/repositories/flux/packages/flux",
+    "@alwatr/fsm": "portal:/Volumes/AlwatrMac/repositories/flux/packages/fsm",
+    "@alwatr/observable": "portal:/Volumes/AlwatrMac/repositories/flux/packages/observable",
+    "@alwatr/remote-context": "portal:/Volumes/AlwatrMac/repositories/flux/packages/remote-context",
+    "@alwatr/signal": "portal:/Volumes/AlwatrMac/repositories/flux/packages/signal"
+  }
 }

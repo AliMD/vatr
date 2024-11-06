@@ -15,15 +15,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/context@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/context@npm:4.0.0"
+"@alwatr/context@portal:/Volumes/AlwatrMac/repositories/flux/packages/context::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/context@portal:/Volumes/AlwatrMac/repositories/flux/packages/context::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
     "@alwatr/nanolib": "npm:^5.1.0"
-    "@alwatr/observable": "npm:^4.0.0"
-  checksum: 10c0/d25b17541323eeef9f2f39776b9d42f90b5e83caecf5149569b723f0b2fd20a8fa40988a5d2f8964c78103ff130fa5c8ebd524d384c46ac1be88b089da26329c
+    "@alwatr/observable": "workspace:^"
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/crypto@npm:^4.5.2":
   version: 4.5.2
@@ -100,15 +99,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/fetch-state-machine@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/fetch-state-machine@npm:4.0.0"
+"@alwatr/fetch-state-machine@portal:/Volumes/AlwatrMac/repositories/flux/packages/fetch-state-machine::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/fetch-state-machine@portal:/Volumes/AlwatrMac/repositories/flux/packages/fetch-state-machine::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
-    "@alwatr/fsm": "npm:^4.0.0"
+    "@alwatr/fsm": "workspace:^"
     "@alwatr/nanolib": "npm:^5.1.0"
-  checksum: 10c0/878ec1af9b34eef427a6000a3ae814d28287600432bf185f20c5ea091c0bf91d12d9cc605848b86d29bf26f7b6896b19584208987dd12f6bd1204467fd637ebe
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/fetch@npm:^5.0.0":
   version: 5.0.0
@@ -142,29 +140,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/flux@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/flux@npm:4.0.0"
+"@alwatr/flux@portal:/Volumes/AlwatrMac/repositories/flux/packages/flux::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/flux@portal:/Volumes/AlwatrMac/repositories/flux/packages/flux::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
-    "@alwatr/context": "npm:^4.0.0"
-    "@alwatr/fetch-state-machine": "npm:^4.0.0"
-    "@alwatr/fsm": "npm:^4.0.0"
-    "@alwatr/observable": "npm:^4.0.0"
-    "@alwatr/remote-context": "npm:^4.0.0"
-    "@alwatr/signal": "npm:^4.0.0"
-  checksum: 10c0/e37e4a83315c9adb2fc4e81c5432c29b8b20a6c68e1f5f8d69df0b1792fa0e5d9d150392a3401efa338c3f743467ef96a8f46d7733efa83c63eccf7f553c1791
+    "@alwatr/context": "workspace:^"
+    "@alwatr/fetch-state-machine": "workspace:^"
+    "@alwatr/fsm": "workspace:^"
+    "@alwatr/observable": "workspace:^"
+    "@alwatr/remote-context": "workspace:^"
+    "@alwatr/signal": "workspace:^"
   languageName: node
-  linkType: hard
+  linkType: soft
 
-"@alwatr/fsm@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/fsm@npm:4.0.0"
+"@alwatr/fsm@portal:/Volumes/AlwatrMac/repositories/flux/packages/fsm::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/fsm@portal:/Volumes/AlwatrMac/repositories/flux/packages/fsm::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
     "@alwatr/nanolib": "npm:^5.1.0"
-    "@alwatr/observable": "npm:^4.0.0"
-  checksum: 10c0/d05fec5ccf9c28e0c59139aa7f79299b0a523d44b806d2334163cd4fddaae871e4f6897b4cfefd0d6bfe8385306233332c4436b3cc959fc5864dbd8e950cf986
+    "@alwatr/observable": "workspace:^"
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/global-this@npm:^5.0.0":
   version: 5.0.0
@@ -340,14 +336,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/observable@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/observable@npm:4.0.0"
+"@alwatr/observable@portal:/Volumes/AlwatrMac/repositories/flux/packages/observable::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/observable@portal:/Volumes/AlwatrMac/repositories/flux/packages/observable::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
     "@alwatr/nanolib": "npm:^5.1.0"
-  checksum: 10c0/e74d2ae675cc12fa5ac4fffca68a65c44f6c83b457c510496be6414f6415d5e8f47ef7b69dcfd9f88eddd566f9b45b256641b46d75b061f88db8c1ca217222c6
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/package-tracer@npm:^5.0.0":
   version: 5.0.0
@@ -401,15 +396,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/remote-context@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/remote-context@npm:4.0.0"
+"@alwatr/remote-context@portal:/Volumes/AlwatrMac/repositories/flux/packages/remote-context::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/remote-context@portal:/Volumes/AlwatrMac/repositories/flux/packages/remote-context::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
-    "@alwatr/fetch-state-machine": "npm:^4.0.0"
+    "@alwatr/fetch-state-machine": "workspace:^"
     "@alwatr/nanolib": "npm:^5.1.0"
-  checksum: 10c0/f77ab225911eb5b29a8f67495b8ce484706baf86987de13b12ad78d2779eb9aae5e532c2a4d6892f7e67631985e9600a59c08c55211f2775cdf7bad78fbc993e
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/render-state@npm:^5.0.0":
   version: 5.0.0
@@ -430,15 +424,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/signal@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/signal@npm:4.0.0"
+"@alwatr/signal@portal:/Volumes/AlwatrMac/repositories/flux/packages/signal::locator=alwatr-monorepo%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@alwatr/signal@portal:/Volumes/AlwatrMac/repositories/flux/packages/signal::locator=alwatr-monorepo%40workspace%3A."
   dependencies:
     "@alwatr/nanolib": "npm:^5.1.0"
-    "@alwatr/observable": "npm:^4.0.0"
-  checksum: 10c0/28481cb85607cedb36e0b21972452735b08b7d41c9ace04738985aee9e5f96d6104b4acbb673afe2395c51441b20f7a9a0413fa6dc805be0fdf44beca07d95e1
+    "@alwatr/observable": "workspace:^"
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@alwatr/tsconfig-base@npm:^5.0.0":
   version: 5.0.0
@@ -1772,7 +1765,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "alwatr@workspace:packages/alwatr"
   dependencies:
-    "@alwatr/flux": "npm:^4.0.0"
+    "@alwatr/flux": "npm:^4.0.1"
     "@alwatr/nano-build": "npm:^5.0.0"
     "@alwatr/nanolib": "npm:^5.1.0"
     "@alwatr/nanotron": "npm:^4.5.2"
