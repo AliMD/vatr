@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/Alwatr/alwatr/compare/v2.3.0...v3.0.0) (2024-11-06)
+
+### ⚠ BREAKING CHANGES
+
+* [Flux v4](https://github.com/Alwatr/flux/releases/tag/v4.0.0) has some breaking changes:
+
+### Features
+
+* upgrade flux v4.0.0 ([1800866](https://github.com/Alwatr/alwatr/commit/1800866e867f4a0d90880d130f4d81b4114e66ef)) by @
+
 ## [2.3.0](https://github.com/Alwatr/alwatr/compare/v2.2.0...v2.3.0) (2024-11-04)
 
 ### Features
