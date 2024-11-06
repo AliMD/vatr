@@ -100,13 +100,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/fetch-state-machine@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/fetch-state-machine@npm:4.0.0"
+"@alwatr/fetch-state-machine@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "@alwatr/fetch-state-machine@npm:4.0.1"
   dependencies:
-    "@alwatr/fsm": "npm:^4.0.0"
+    "@alwatr/fsm": "npm:^4.0.1"
     "@alwatr/nanolib": "npm:^5.1.0"
-  checksum: 10c0/878ec1af9b34eef427a6000a3ae814d28287600432bf185f20c5ea091c0bf91d12d9cc605848b86d29bf26f7b6896b19584208987dd12f6bd1204467fd637ebe
+  checksum: 10c0/2b62b9e7b7f1b65102012acc265d705b5cfc1caa342c8051f2c69a273ce76789dadc641fa998df32036954745a7fef3ab99290ea3ccc50c026609c88d25c63bf
   languageName: node
   linkType: hard
 
@@ -142,27 +142,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/flux@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/flux@npm:4.0.0"
+"@alwatr/flux@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "@alwatr/flux@npm:4.0.1"
   dependencies:
     "@alwatr/context": "npm:^4.0.0"
-    "@alwatr/fetch-state-machine": "npm:^4.0.0"
-    "@alwatr/fsm": "npm:^4.0.0"
+    "@alwatr/fetch-state-machine": "npm:^4.0.1"
+    "@alwatr/fsm": "npm:^4.0.1"
     "@alwatr/observable": "npm:^4.0.0"
-    "@alwatr/remote-context": "npm:^4.0.0"
+    "@alwatr/remote-context": "npm:^4.0.1"
     "@alwatr/signal": "npm:^4.0.0"
-  checksum: 10c0/e37e4a83315c9adb2fc4e81c5432c29b8b20a6c68e1f5f8d69df0b1792fa0e5d9d150392a3401efa338c3f743467ef96a8f46d7733efa83c63eccf7f553c1791
+  checksum: 10c0/ce49175d02b0bce050ca71a1d3e381797c57b070ae96a669e368694dd545b9bbbb8630b5c46dc5f5324531ba7d6db3e9f630c97b213377d44d13a027c849b80f
   languageName: node
   linkType: hard
 
-"@alwatr/fsm@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/fsm@npm:4.0.0"
+"@alwatr/fsm@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "@alwatr/fsm@npm:4.0.1"
   dependencies:
     "@alwatr/nanolib": "npm:^5.1.0"
     "@alwatr/observable": "npm:^4.0.0"
-  checksum: 10c0/d05fec5ccf9c28e0c59139aa7f79299b0a523d44b806d2334163cd4fddaae871e4f6897b4cfefd0d6bfe8385306233332c4436b3cc959fc5864dbd8e950cf986
+  checksum: 10c0/d59ce8a3aee8353288112d8f584a8afab83b04b9184e5ca8f891dfdd08c02e5c41d994e2dea84720d4834e79f4c67dae5f405000332333a84268ed7e012ddcae
   languageName: node
   linkType: hard
 
@@ -401,13 +401,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/remote-context@npm:^4.0.0":
-  version: 4.0.0
-  resolution: "@alwatr/remote-context@npm:4.0.0"
+"@alwatr/remote-context@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "@alwatr/remote-context@npm:4.0.1"
   dependencies:
-    "@alwatr/fetch-state-machine": "npm:^4.0.0"
+    "@alwatr/fetch-state-machine": "npm:^4.0.1"
     "@alwatr/nanolib": "npm:^5.1.0"
-  checksum: 10c0/f77ab225911eb5b29a8f67495b8ce484706baf86987de13b12ad78d2779eb9aae5e532c2a4d6892f7e67631985e9600a59c08c55211f2775cdf7bad78fbc993e
+  checksum: 10c0/34d849ad38f03070a2a478cd8a84b09b1997ee63b0b4e023283e964ded702bd621846af5fa09a3200bfe93af50d5f641018cfca35ddf8f64a99329b2a81192ad
   languageName: node
   linkType: hard
 
@@ -1772,7 +1772,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "alwatr@workspace:packages/alwatr"
   dependencies:
-    "@alwatr/flux": "npm:^4.0.0"
+    "@alwatr/flux": "npm:^4.0.1"
     "@alwatr/nano-build": "npm:^5.0.0"
     "@alwatr/nanolib": "npm:^5.1.0"
     "@alwatr/nanotron": "npm:^4.5.2"
