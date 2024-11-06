@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.0](https://github.com/Alwatr/alwatr/compare/v3.0.0...v3.1.0) (2024-11-06)
+
+### Features
+
+* update `flux` version to `4.0.1` ([b641425](https://github.com/Alwatr/alwatr/commit/b641425cb09abf5bae623a1d4e679e05d8a553eb)) by @
+
 ## [3.0.0](https://github.com/Alwatr/alwatr/compare/v2.3.0...v3.0.0) (2024-11-06)
 
 ### ⚠ BREAKING CHANGES
