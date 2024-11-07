@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.1](https://github.com/Alwatr/alwatr/compare/v3.2.0...v3.2.1) (2024-11-07)
+
+### Bug Fixes
+
+* update @alwatr/nanolib and @alwatr/fetch to v5.2.1 ([cac0343](https://github.com/Alwatr/alwatr/commit/cac03435f9b6b990b13541c2d055ff429b9bb056)) by @
+
 ## [3.2.0](https://github.com/Alwatr/alwatr/compare/v3.1.1...v3.2.0) (2024-11-07)
 
 ### Features
