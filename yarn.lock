@@ -25,12 +25,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/crypto@npm:^4.5.2":
-  version: 4.5.2
-  resolution: "@alwatr/crypto@npm:4.5.2"
+"@alwatr/crypto@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "@alwatr/crypto@npm:4.6.0"
   dependencies:
-    "@alwatr/nanolib": "npm:^5.0.0"
-  checksum: 10c0/d637903fc07d7da6840de900b93a7ae6def8de01a3e1147dbb8d4f3311bf2867c85cb0708fb6eda4e410da5c4707dcf8228041f603f85237b440d25f14f6348c
+    "@alwatr/nanolib": "npm:^5.2.1"
+  checksum: 10c0/979a8c6516ec6fe6c588215900d37349938363a8f3b1a477bb9865cfe5211a0555b64824768b4d40effd84fbc7d36798a8171d42de19524c16e61c90300ba50f
   languageName: node
   linkType: hard
 
@@ -252,24 +252,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/nanotron-api-server@npm:^4.5.2":
-  version: 4.5.2
-  resolution: "@alwatr/nanotron-api-server@npm:4.5.2"
+"@alwatr/nanotron-api-server@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "@alwatr/nanotron-api-server@npm:4.6.0"
   dependencies:
-    "@alwatr/nanolib": "npm:^5.0.0"
-  checksum: 10c0/7ab596a2bcae57bc99f7dd0e9f3ce4715948085b5407febc72118d4bfca49fb476dc284793059a7f93bd71ebfe1341e8da1bbe769a6a4c62e35c8968decaab56
+    "@alwatr/nanolib": "npm:^5.2.1"
+  checksum: 10c0/2297c1c6ae585d2e1114bd6d62aa5a002fca0edee276f28bf3f204929dea4a7ef63e6e858fda99a8e66bb793db4f8efcb8065f29b16bb9371542b94d685f9544
   languageName: node
   linkType: hard
 
-"@alwatr/nanotron@npm:^4.5.2":
-  version: 4.5.2
-  resolution: "@alwatr/nanotron@npm:4.5.2"
+"@alwatr/nanotron@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "@alwatr/nanotron@npm:4.6.0"
   dependencies:
-    "@alwatr/crypto": "npm:^4.5.2"
-    "@alwatr/nanolib": "npm:^5.0.0"
-    "@alwatr/nanotron-api-server": "npm:^4.5.2"
-    "@alwatr/pre-handlers": "npm:^4.5.2"
-  checksum: 10c0/ab15e0c78419f30e3f5321d28c3710733e4c578b4e86b769ee8faa094e66ed57c9af3d47c67199867c367199c3f10c02f6533a90636e1744fe9cce4984ad18c2
+    "@alwatr/crypto": "npm:^4.6.0"
+    "@alwatr/nanolib": "npm:^5.2.1"
+    "@alwatr/nanotron-api-server": "npm:^4.6.0"
+    "@alwatr/pre-handlers": "npm:^4.6.0"
+  checksum: 10c0/18139305d897f68d0c7dba64e332a0ce0ba9fb00b90f91a00a7ec0a29d4d05569ae3fb4d978188482dd57575fc95b3b73ad6d9b907a753719a9c1a18fbdd6010
   languageName: node
   linkType: hard
 
@@ -384,13 +384,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/pre-handlers@npm:^4.5.2":
-  version: 4.5.2
-  resolution: "@alwatr/pre-handlers@npm:4.5.2"
+"@alwatr/pre-handlers@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "@alwatr/pre-handlers@npm:4.6.0"
   dependencies:
-    "@alwatr/nanolib": "npm:^5.0.0"
-    "@alwatr/nanotron-api-server": "npm:^4.5.2"
-  checksum: 10c0/62d20e042ef01091f020f8475fda3a8e3cb0e25c7cf46199e7039d7456faeda6f670be58fcca08ad74d67ac25abbe408bed05b43266c09e400a780e70fa74332
+    "@alwatr/nanolib": "npm:^5.2.1"
+    "@alwatr/nanotron-api-server": "npm:^4.6.0"
+  checksum: 10c0/02860e8011bec8949b3f725d5b91042d5c9cab90f024162bcf33d7b274cae02a28e2ab0c827a07d2152a3188d8fac8981717c10f461edd54e5991c654f8e6fda
   languageName: node
   linkType: hard
 
@@ -1775,7 +1775,7 @@ __metadata:
     "@alwatr/flux": "npm:^4.0.2"
     "@alwatr/nano-build": "npm:^5.0.0"
     "@alwatr/nanolib": "npm:^5.2.1"
-    "@alwatr/nanotron": "npm:^4.5.2"
+    "@alwatr/nanotron": "npm:^4.6.0"
     "@alwatr/nitrobase": "npm:^7.3.1"
     "@alwatr/prettier-config": "npm:^5.0.0"
     "@alwatr/tsconfig-base": "npm:^5.0.0"
@@ -2360,13 +2360,13 @@ __metadata:
   linkType: hard
 
 "cross-spawn@npm:^7.0.0, cross-spawn@npm:^7.0.2, cross-spawn@npm:^7.0.3":
-  version: 7.0.3
-  resolution: "cross-spawn@npm:7.0.3"
+  version: 7.0.4
+  resolution: "cross-spawn@npm:7.0.4"
   dependencies:
     path-key: "npm:^3.1.0"
     shebang-command: "npm:^2.0.0"
     which: "npm:^2.0.1"
-  checksum: 10c0/5738c312387081c98d69c98e105b6327b069197f864a60593245d64c8089c8a0a744e16349281210d56835bb9274130d825a78b2ad6853ca13cfbeffc0c31750
+  checksum: 10c0/04f6c70dcbdd156f53073f13730f71160dabb91c8dfbdb24a873f4580ad7ca4b73c062ddfaaa2ba46d0dac433856d0cc0a07ff7173cd5404fefde952e87c9dbf
   languageName: node
   linkType: hard
 
