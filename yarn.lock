@@ -110,9 +110,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/fetch@npm:^5.2.0":
-  version: 5.2.0
-  resolution: "@alwatr/fetch@npm:5.2.0"
+"@alwatr/fetch@npm:^5.2.1":
+  version: 5.2.1
+  resolution: "@alwatr/fetch@npm:5.2.1"
   dependencies:
     "@alwatr/delay": "npm:^5.0.0"
     "@alwatr/global-this": "npm:^5.0.0"
@@ -120,7 +120,7 @@ __metadata:
     "@alwatr/logger": "npm:^5.0.0"
     "@alwatr/package-tracer": "npm:^5.0.0"
     "@alwatr/parse-duration": "npm:^5.0.0"
-  checksum: 10c0/f534c80abc126b214446c6e04bf4fbe328c503f1550488b6d2aa9878442792238017f0299a0a269892c3f781ec9963ea115f9ac8c50c01b2f462bead95474511
+  checksum: 10c0/03ecd8ea6bc6c93d311a676d54ac18d8d14941dbaba05a4d057cf108fd1a233838834c21cbaad51a73438c5dc54825a58da9567532db56b4508bb74f1ca6f624
   languageName: node
   linkType: hard
 
@@ -223,9 +223,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/nanolib@npm:^5.0.0, @alwatr/nanolib@npm:^5.1.0, @alwatr/nanolib@npm:^5.2.0":
-  version: 5.2.0
-  resolution: "@alwatr/nanolib@npm:5.2.0"
+"@alwatr/nanolib@npm:^5.0.0, @alwatr/nanolib@npm:^5.1.0, @alwatr/nanolib@npm:^5.2.1":
+  version: 5.2.1
+  resolution: "@alwatr/nanolib@npm:5.2.1"
   dependencies:
     "@alwatr/async-queue": "npm:^5.0.0"
     "@alwatr/dedupe": "npm:^5.0.0"
@@ -233,7 +233,7 @@ __metadata:
     "@alwatr/delay": "npm:^5.0.0"
     "@alwatr/env": "npm:^5.0.0"
     "@alwatr/exit-hook": "npm:^5.0.0"
-    "@alwatr/fetch": "npm:^5.2.0"
+    "@alwatr/fetch": "npm:^5.2.1"
     "@alwatr/flat-string": "npm:^5.0.0"
     "@alwatr/flatomise": "npm:^5.0.0"
     "@alwatr/global-this": "npm:^5.0.0"
@@ -248,7 +248,7 @@ __metadata:
     "@alwatr/render-state": "npm:^5.0.0"
     "@alwatr/resolve-url": "npm:^5.0.0"
     "@alwatr/unicode-digits": "npm:^5.0.0"
-  checksum: 10c0/530deb885d630b37dbdc3f2f62bdb018108ef2b9c6074cbcb263ba0c9151634988208c78820f4ed54e521e0ee29396f97151e8b9ecfb062a23c1e50f12301e52
+  checksum: 10c0/e87b0351e80be8269f21d73a3d57738ff423be098b4ffabaa4c053bb882e68a6ae8c9dd0c862e5f712de0913420e2e44a0ad49b0c53691b408d6e84e4ddc3bd4
   languageName: node
   linkType: hard
 
@@ -1774,7 +1774,7 @@ __metadata:
   dependencies:
     "@alwatr/flux": "npm:^4.0.2"
     "@alwatr/nano-build": "npm:^5.0.0"
-    "@alwatr/nanolib": "npm:^5.2.0"
+    "@alwatr/nanolib": "npm:^5.2.1"
     "@alwatr/nanotron": "npm:^4.5.2"
     "@alwatr/nitrobase": "npm:^7.3.1"
     "@alwatr/prettier-config": "npm:^5.0.0"
