@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/Alwatr/alwatr/compare/v3.2.1...v3.3.0) (2024-11-07)
+
+### Features
+
+* update @alwatr/nanotron and related dependencies to v4.6.0 ([44fe322](https://github.com/Alwatr/alwatr/commit/44fe3227a5eeed5012a8c98ccb8187b9b49253d5)) by @
+
 ## [3.2.1](https://github.com/Alwatr/alwatr/compare/v3.2.0...v3.2.1) (2024-11-07)
 
 ### Bug Fixes
