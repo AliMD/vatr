@@ -38,9 +38,14 @@
       "require": "./dist/nanolib/node-fs.cjs"
     },
     "./nitrobase": {
-      "types": "./dist/nitrobase.d.ts",
-      "import": "./dist/nitrobase.mjs",
-      "require": "./dist/flux.cjs"
+      "types": "./dist/nitrobase/nitrobase.d.ts",
+      "import": "./dist/nitrobase/nitrobase.mjs",
+      "require": "./dist/nitrobase/nitrobase.cjs"
+    },
+    "./nitrobase/client": {
+      "types": "./dist/nitrobase/client.d.ts",
+      "import": "./dist/nitrobase/client.mjs",
+      "require": "./dist/nitrobase/client.cjs"
     },
     "./flux": {
       "types": "./dist/flux.d.ts",
