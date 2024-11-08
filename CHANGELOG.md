@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.5.0](https://github.com/Alwatr/alwatr/compare/v3.4.0...v3.5.0) (2024-11-08)
+
+### Features
+
+* restructure nitrobase exports and add nitrobase/client ([2c141af](https://github.com/Alwatr/alwatr/commit/2c141afd98ef7a772de89676561a184d0edd7497)) by @
+* update @alwatr/nanotron to v4.8.0 and @alwatr/nitrobase to v7.4.0 ([b1fe790](https://github.com/Alwatr/alwatr/commit/b1fe790ebbb62ca91240fff465fb8acbe0b0dd95)) by @
+
 ## [3.4.0](https://github.com/Alwatr/alwatr/compare/v3.3.0...v3.4.0) (2024-11-07)
 
 ### Features
