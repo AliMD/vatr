@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.6.0](https://github.com/Alwatr/alwatr/compare/v3.5.0...v3.6.0) (2024-11-08)
+
+### Features
+
+* update @alwatr/nitrobase to v7.4.1 ([e68929d](https://github.com/Alwatr/alwatr/commit/e68929d7e051393d1f1088e72055ba4c76030d33)) by @
+
 ## [3.5.0](https://github.com/Alwatr/alwatr/compare/v3.4.0...v3.5.0) (2024-11-08)
 
 ### Features
