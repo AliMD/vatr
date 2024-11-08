@@ -315,16 +315,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase@npm:^7.4.0":
-  version: 7.4.0
-  resolution: "@alwatr/nitrobase@npm:7.4.0"
+"@alwatr/nitrobase@npm:^7.4.1":
+  version: 7.4.1
+  resolution: "@alwatr/nitrobase@npm:7.4.1"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
     "@alwatr/nitrobase-engine": "npm:^7.4.0"
     "@alwatr/nitrobase-helper": "npm:^7.4.0"
     "@alwatr/nitrobase-reference": "npm:^7.4.0"
     "@alwatr/nitrobase-types": "npm:^7.4.0"
-  checksum: 10c0/eafeb2281d30cfcfdcda7a92ffd9a5de5c79116eaa1d1b05c8f3f3e27ce3480e918510a0219964dc6cd823c536999b6e06bc69696175d13db15d9ff30cd2022d
+  checksum: 10c0/47ce88f9f70f0e75c91a01e925f446d37ba522c8f84a0f6c82d7bc4523942a753f4b3e4e7fccf0c2b4a94978ae0e98fe5e6a721a7add23733c2289af7598c517
   languageName: node
   linkType: hard
 
@@ -1776,7 +1776,7 @@ __metadata:
     "@alwatr/nano-build": "npm:^5.0.0"
     "@alwatr/nanolib": "npm:^5.2.1"
     "@alwatr/nanotron": "npm:^4.8.0"
-    "@alwatr/nitrobase": "npm:^7.4.0"
+    "@alwatr/nitrobase": "npm:^7.4.1"
     "@alwatr/prettier-config": "npm:^5.0.0"
     "@alwatr/tsconfig-base": "npm:^5.0.0"
     "@alwatr/type-helper": "npm:^5.0.0"
