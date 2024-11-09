@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.7.0](https://github.com/Alwatr/alwatr/compare/v3.6.0...v3.7.0) (2024-11-09)
+
+### Features
+
+* update @alwatr/nitrobase to v7.5.0 and adjust dependencies in yarn.lock ([9aa921d](https://github.com/Alwatr/alwatr/commit/9aa921df5f67d83c598d919b670a592d6de61e9e)) by @AliMD
+
 ## [3.6.0](https://github.com/Alwatr/alwatr/compare/v3.5.0...v3.6.0) (2024-11-08)
 
 ### Features
