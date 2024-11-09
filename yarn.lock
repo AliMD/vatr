@@ -273,58 +273,71 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase-engine@npm:^7.4.0":
-  version: 7.4.0
-  resolution: "@alwatr/nitrobase-engine@npm:7.4.0"
+"@alwatr/nitrobase-engine@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase-engine@npm:7.5.0"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
-    "@alwatr/nitrobase-helper": "npm:^7.4.0"
-    "@alwatr/nitrobase-reference": "npm:^7.4.0"
-    "@alwatr/nitrobase-types": "npm:^7.4.0"
-  checksum: 10c0/f9971138a9e7c40cf2fec075f4c9ccc229371316fc9d06cd71550d994080d0e35f3e5c2096508afdb5c1c63d30be52225a29af331769a427748160a56332fdef
+    "@alwatr/nitrobase-helper": "npm:^7.5.0"
+    "@alwatr/nitrobase-reference": "npm:^7.5.0"
+    "@alwatr/nitrobase-types": "npm:^7.5.0"
+  checksum: 10c0/28a4b5a39c6f336b2c926faa9ca97c3704b4655f68819c24b661486b6af1f6502c8aef864ba9e225af92cccfb8593a05b925a58e5dd06d3adf84505f9656cd46
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase-helper@npm:^7.4.0":
-  version: 7.4.0
-  resolution: "@alwatr/nitrobase-helper@npm:7.4.0"
+"@alwatr/nitrobase-helper@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase-helper@npm:7.5.0"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
-    "@alwatr/nitrobase-types": "npm:^7.4.0"
-  checksum: 10c0/5f2745f7d704c24022df8418df58e550513aede6e53a4aa96d2d8fcd7ebd607476420996156eab7c1fc83c29ca2b0880f1c559b3fe567119d04ddaea08415b8a
+    "@alwatr/nitrobase-types": "npm:^7.5.0"
+  checksum: 10c0/f434838f03adfecce2c820c7c942c35aa9960fcccbfcb4c24399040b4be670e60246238b0481092cef7a91fa1938f93233be18b8146c872e4b291bdf98a5626b
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase-reference@npm:^7.4.0":
-  version: 7.4.0
-  resolution: "@alwatr/nitrobase-reference@npm:7.4.0"
+"@alwatr/nitrobase-reference@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase-reference@npm:7.5.0"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
-    "@alwatr/nitrobase-helper": "npm:^7.4.0"
-    "@alwatr/nitrobase-types": "npm:^7.4.0"
-  checksum: 10c0/f0254fe22916064fb37301cbe6e31590ab0fe43f7c2a5eea4e6f1bb6e342627dd09454a6bf5f3f7bab797aed622db13cf9d0d8032eca7f4a3f9907e6b9bddf0d
+    "@alwatr/nitrobase-helper": "npm:^7.5.0"
+    "@alwatr/nitrobase-types": "npm:^7.5.0"
+  checksum: 10c0/ab8709cd7a8001df99feba39bf9d647bf700876f8644ae796d7d74939ac7b6278823f0e0f9e6eec7be03d9d066ff3ad1c03314a797b11bc2f7bd300949174a87
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase-types@npm:^7.4.0":
-  version: 7.4.0
-  resolution: "@alwatr/nitrobase-types@npm:7.4.0"
+"@alwatr/nitrobase-types@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase-types@npm:7.5.0"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
-  checksum: 10c0/9512955855a778e304c00238145f1f90689b5c1ad9a6c9a2fefc35416d84f3e4e7b3ea966de5716d275125755eebbc1f2b985dfd936695a9c94ade8ed328c353
+  checksum: 10c0/ebc5cebdd7f6f316d059372c3b118c33d07190507b0689b9d5b83b9fcb19adad59d9d110cdf8259d69005c9f9d4b473fd26c8d627e6a2eebd34bfc919878f132
   languageName: node
   linkType: hard
 
-"@alwatr/nitrobase@npm:^7.4.1":
-  version: 7.4.1
-  resolution: "@alwatr/nitrobase@npm:7.4.1"
+"@alwatr/nitrobase-user-management@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase-user-management@npm:7.5.0"
   dependencies:
     "@alwatr/nanolib": "npm:^5.2.1"
-    "@alwatr/nitrobase-engine": "npm:^7.4.0"
-    "@alwatr/nitrobase-helper": "npm:^7.4.0"
-    "@alwatr/nitrobase-reference": "npm:^7.4.0"
-    "@alwatr/nitrobase-types": "npm:^7.4.0"
-  checksum: 10c0/47ce88f9f70f0e75c91a01e925f446d37ba522c8f84a0f6c82d7bc4523942a753f4b3e4e7fccf0c2b4a94978ae0e98fe5e6a721a7add23733c2289af7598c517
+    "@alwatr/nitrobase-engine": "npm:^7.5.0"
+    "@alwatr/nitrobase-reference": "npm:^7.5.0"
+    "@alwatr/nitrobase-types": "npm:^7.5.0"
+  checksum: 10c0/80f9987e00d8aaa3b9fb42ee27ce883da1d714ec4a2200ae23dbc2f36ac528d9a0efed80da98a9371cb0cbbbcf874deaa04b0dd31ff7bf2c0482fb3510977db4
+  languageName: node
+  linkType: hard
+
+"@alwatr/nitrobase@npm:^7.5.0":
+  version: 7.5.0
+  resolution: "@alwatr/nitrobase@npm:7.5.0"
+  dependencies:
+    "@alwatr/nanolib": "npm:^5.2.1"
+    "@alwatr/nitrobase-engine": "npm:^7.5.0"
+    "@alwatr/nitrobase-helper": "npm:^7.5.0"
+    "@alwatr/nitrobase-reference": "npm:^7.5.0"
+    "@alwatr/nitrobase-types": "npm:^7.5.0"
+    "@alwatr/nitrobase-user-management": "npm:^7.5.0"
+  checksum: 10c0/b67fd6de3c8609b85b2aaf91ff1e361ee6ce6266230396a838cfb349252c575e9c732dba98fa7d046d64efc2c406187dab0fb54bdf594f428ca41eecb5b795b8
   languageName: node
   linkType: hard
 
@@ -1776,7 +1789,7 @@ __metadata:
     "@alwatr/nano-build": "npm:^5.0.0"
     "@alwatr/nanolib": "npm:^5.2.1"
     "@alwatr/nanotron": "npm:^4.8.0"
-    "@alwatr/nitrobase": "npm:^7.4.1"
+    "@alwatr/nitrobase": "npm:^7.5.0"
     "@alwatr/prettier-config": "npm:^5.0.0"
     "@alwatr/tsconfig-base": "npm:^5.0.0"
     "@alwatr/type-helper": "npm:^5.0.0"
@@ -4685,9 +4698,9 @@ __metadata:
   linkType: hard
 
 "object-inspect@npm:^1.13.1":
-  version: 1.13.2
-  resolution: "object-inspect@npm:1.13.2"
-  checksum: 10c0/b97835b4c91ec37b5fd71add84f21c3f1047d1d155d00c0fcd6699516c256d4fcc6ff17a1aced873197fe447f91a3964178fd2a67a1ee2120cdaf60e81a050b4
+  version: 1.13.3
+  resolution: "object-inspect@npm:1.13.3"
+  checksum: 10c0/cc3f15213406be89ffdc54b525e115156086796a515410a8d390215915db9f23c8eab485a06f1297402f440a33715fe8f71a528c1dcbad6e1a3bcaf5a46921d4
   languageName: node
   linkType: hard
 
